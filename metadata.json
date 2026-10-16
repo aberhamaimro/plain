@@ -1,0 +1,6 @@
+{
+  "name": "Plain",
+  "description": "Understand confusing documents in 30 seconds. Plain-language breakdowns of bills, leases, contracts, and notices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
